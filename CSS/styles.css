@@ -615,3 +615,19 @@ img.icone {
   }
 }
 
+/* Estilo para contatos e redes */
+.contato-text p {
+  color: #fff;
+  font-size: 20px;
+  margin: 8px 0;
+}
+
+.contato-text a {
+  color: #f7ca37;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.contato-text a:hover {
+  text-decoration: underline;
+}
